@@ -3,7 +3,8 @@
 bip39 Seed Phrase Generator makes with PYTHON
 
 It's generator can generate bip39 **ONLY 24words** seed phrase, it can works offline.
-**Python must be installed!** 
+
+**Python must be installed!**
 How to install python use link => https://wiki.python.org/moin/BeginnersGuide/Download
 
 **HOW TO USE THIS SEED GENERATOR ↓**
