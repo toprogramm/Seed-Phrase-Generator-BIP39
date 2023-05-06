@@ -21,8 +21,7 @@ def binary_seed_phrase():
     tail = get_hex(entropy)[slice(2)]
     
     binary_tail = base16_to_base2(tail, 8)
-    print(binary_tail)
-    binary_full_phrase = entropy+binary_tail
+    binary_full_phrase = entropy + binary_tail
     return binary_full_phrase
 
 def cut_by(value, number_of_elements):
