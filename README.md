@@ -4,7 +4,7 @@
 
 bip39 Seed Phrase Generator makes with PYTHON
 
-It's generator can generate bip39 **ONLY 24words** seed phrase, it can works offline.
+This generator can generate bip39 **12words and 24words** seed phrase, it can work offline.
 
 **Python must be installed!**
 How to install python use link => https://wiki.python.org/moin/BeginnersGuide/Download
@@ -17,6 +17,14 @@ Download all files or:
 
 Go to folder in console and run generator
 
-> python index.py
+>cd "SeedPhraseGenerator_PYTHON"
 
-Have a GOOD DAY!
+### Generate 24words
+
+> python 24words.py
+
+### Generate 12words 
+
+> python 12words.py
+
+## Have a GOOD DAY! :) 
