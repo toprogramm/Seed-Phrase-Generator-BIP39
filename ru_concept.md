@@ -15,3 +15,13 @@
 8. Добавляем словарь из 2048слов по bip39 есть на гитхабе в массив
 9. Теперь берем список из 2048 слов и находим их по номеру из binarySeedPhrase  и записываем. должно получиться 24слова.
 >> У меня это chunks[index] = wordlist[chunks[index]] 
+
+10. Генератор 12 слов работает так же, как генератор 24 слов, я меняю только два значения в строках 9-10.
+
+### 12words
+>> randomBytes = random.randbytes(16).hex()
+entropy = base16_to_base2(randomBytes, 128)
+
+### 24words 
+>>randomBytes = random.randbytes(32).hex()
+entropy = base16_to_base2(randomBytes, 256)
