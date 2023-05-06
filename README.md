@@ -27,4 +27,5 @@ Go to folder in console and run generator
 
 > python 12words.py
 
-## Have a GOOD DAY! :) 
+## Have a GOOD DAY! 😊
+ 
