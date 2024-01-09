@@ -1,6 +1,6 @@
 #bip39 #python #seed_phrase_generator #offline
 
-# SeedPhraseGenerator_PYTHON
+# Seed-Phrase-Generator-BIP39
 
 bip39 Seed Phrase Generator makes with PYTHON
 
