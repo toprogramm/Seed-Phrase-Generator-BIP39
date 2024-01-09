@@ -29,4 +29,7 @@ Go to folder in console and run generator
 
 ## Have a GOOD DAY! 😊
 
+[![Example Image](https://img.freepik.com/free-vector/two-vector-red-casino-falling-dice-with-white-dots-isolated-background_1284-48503.jpg){:height="150px" width="300px"}](https://example.com/)
+
+
 <a href="https://www.freepik.com/free-vector/two-vector-red-casino-falling-dice-with-white-dots-isolated-background_11062557.htm#query=random&position=2&from_view=search&track=sph&uuid=5afbc589-8c60-4218-a591-1820b67b3de1">Image by macrovector</a> on Freepik
