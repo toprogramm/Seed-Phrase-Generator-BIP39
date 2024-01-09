@@ -2,7 +2,7 @@
 
 # Seed-Phrase-Generator-BIP39
 
-<a href="https://github.com/toprogramm/Seed-Phrase-Generator-BIP39/">
+<a href="https://github.com/toprogramm/Seed-Phrase-Generator-BIP39/tree/main">
   <img src="https://img.freepik.com/free-vector/two-vector-red-casino-falling-dice-with-white-dots-isolated-background_1284-48503.jpg" alt="Example Image" height="250" width="250">
 </a>
 
