@@ -30,7 +30,7 @@ Go to folder in console and run generator
 ## Have a GOOD DAY! 😊
 
 <a href="https://example.com/">
-  <img src="https://img.freepik.com/free-vector/two-vector-red-casino-falling-dice-with-white-dots-isolated-background_1284-48503.jpg" alt="Example Image" height="150" width="300">
+  <img src="https://img.freepik.com/free-vector/two-vector-red-casino-falling-dice-with-white-dots-isolated-background_1284-48503.jpg" alt="Example Image" height="250" width="250">
 </a>
 
 
