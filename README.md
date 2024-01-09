@@ -2,9 +2,9 @@
 
 # Seed-Phrase-Generator-BIP39
 
-bip39 Seed Phrase Generator makes with PYTHON
+bip39 Random Seed Phrase Generator makes with PYTHON
 
-This generator can generate bip39 **12words and 24words** seed phrase, it can work offline.
+This generator can randomly generate bip39 **12words and 24words** seed phrase, it can work offline.
 
 **Python must be installed!**
 How to install python use link => https://wiki.python.org/moin/BeginnersGuide/Download
